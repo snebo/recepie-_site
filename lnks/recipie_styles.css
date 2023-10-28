@@ -1,0 +1,39 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:5px;
+    padding: 3px 0;
+}
+
+h1{
+    text-transform: uppercase;
+    color: orange;
+    background-color: antiquewhite;
+}
+
+img{
+    width:300px;
+    height:auto
+}
+h2{
+    text-transform: capitalize;
+    color: green;
+    text-decoration: underline;
+}
+.red{
+    color: red;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
+a{
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+}
+.return{
+    padding:5px;
+    text-align: right;
+}

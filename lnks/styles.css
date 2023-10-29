@@ -13,6 +13,23 @@ h1{
 p{
     font-size: 18px;
 }
+
+.menu{
+    max-width: 300px;
+    background-color: beige;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+li{
+    list-style: none;
+    padding: 20px;
+    background-color: aqua;
+    font-size: 1.4rem;
+    border: 2px solid black;
+    border-radius: 10%;
+}
 a{
     text-decoration: none;
     text-transform: capitalize;
